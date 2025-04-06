@@ -184,6 +184,15 @@ www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(1)
 www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(2)
 ! ----- END https://www.himalkhabar.com -----
 
+! ----- START https://www.karobardaily.com -----
+karobardaily.com##.widget
+karobardaily.com##modal-load
+www.karobardaily.com###myModal
+www.karobardaily.com##.modal-backdrop.fade.show
+karobardaily.com##.modal-backdrop
+karobardaily.com##body.modal-open:style(overflow: auto !important;)
+! ----- END https://www.karobardaily.com -----
+
 ! ----- START https://kathmandukhabar.com -----
 kathmandukhabar.com##.widget_media_image
 ! ----- END https://kathmandukhabar.com -----
