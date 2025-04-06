@@ -407,6 +407,13 @@ www.prasashan.com##section.ad.mb-0.mbl-hide:nth-of-type(1) > .widget
 www.prasashan.com##.row.single-page-ads
 ! ----- END https://www.prasashan.com -----
 
+! ----- START https://rajdhanidaily.com/ -----
+||rajdhanidaily.com/wp-content/uploads/*.gif$image
+rajdhanidaily.com###pum-78632
+rajdhanidaily.com##body:style(overflow: auto !important;)
+rajdhanidaily.com##html:style(overflow: auto !important;)
+! ----- END https://rajdhanidaily.com/ -----
+
 ! ----- START https://ratopati.com/ -----
 www.ratopati.com##[href*="https://cgdigital.com.np/"] > .animate__animated.animate__fast.fadeIn
 www.ratopati.com##[href*="https://www.facebook.com/peugeotmotocyclesnp"] > .animate__animated.animate__fast.fadeIn
