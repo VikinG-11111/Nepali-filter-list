@@ -12,6 +12,13 @@
 arthasarokar.com##.custom-ad-link
 ! ----- END https://arthasarokar.com -----
 
+! ----- START https://arthikpage.com -----
+arthikpage.com##.banner__ads
+arthikpage.com##.textwidget
+arthikpage.com##.posts__banner__ads
+arthikpage.com##.col-lg-4.col-md-6.col-sm-6
+! ----- END https://arthikpage.com -----
+
 ! ----- START https://baahrakhari.com -----
 baahrakhari.com##section.section.normal-section.bigyaapan-section:nth-of-type(1)
 baahrakhari.com##.items.col-4.thumb-news.side-bigyaapan.taja-three
