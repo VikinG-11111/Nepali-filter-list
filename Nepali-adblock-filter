@@ -277,6 +277,10 @@ nagariknews.nagariknetwork.com##.ads_detail_after_side_after
 nagariknews.nagariknetwork.com##.col-md-12.mb-2
 ! ----- END https://https://nagariknews.com/ -----
 
+! ----- START https://www.nepalipatra.com/ -----
+nepalipatra.com##.widget
+! ----- END https://www.nepalipatra.com/ -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
