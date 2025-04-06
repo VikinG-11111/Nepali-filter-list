@@ -8,3 +8,33 @@
 ! Please feel free to open an issue or contribute.
 ! Repo: https://github.com/VikinG-11111/Nepali-filter-list
 
+! ----- START https://www.onlinekhabar.com -----
+www.onlinekhabar.com##.ok_roadblock > .flex-box
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/04/1230x1001.gif"]
+www.onlinekhabar.com##.ok_roadblock
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/UPS_Desktop-ear-panel_750-x-85-px1.gif"]
+www.onlinekhabar.com##section.ok-full-widht-adv.after-topics:nth-of-type(2) > .ok-container
+www.onlinekhabar.com##section.ok-full-widht-adv.after-topics:nth-of-type(8) > .ok-container
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(10) > .ok__container
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/1BE43B6E-3647-43F5-B0F7-9293806884D0.gif"]
+www.onlinekhabar.com##.okam-ad-position-wrap.home-samachar-right.okam-device-desktop
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(14) > .ok__container
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(16) > .ok__container
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/02/900-x-100.gif"]
+www.onlinekhabar.com##.okam-ad-position-wrap.home-samachar-right2.okam-device-desktop
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(18) > .ok__container
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/04/NT-Fiber-Gif-1240-X-120-Pxl.gif"]
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(20) > .ok__container
+www.onlinekhabar.com##section.ok-full-widht-adv:nth-of-type(30) > .ok__container
+www.onlinekhabar.com###okam-ad-1622
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/IMG_8816-ezgif.com-resize.gif"]
+www.onlinekhabar.com##.ok-full-widht-adv.after-topics
+www.onlinekhabar.com##.okam-ad-position-wrap.single-sidebar.okam-device-desktop
+www.onlinekhabar.com##.okam-ad-position-wrap.single-after-content.okam-device-desktop
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/WhatsApp-GIF-2025-03-23-at-15.26.30.gif"]
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/04/Online-khabar-900x100-1.gif"]
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2024/08/900x100.gif"]
+www.onlinekhabar.com##.ok18-single-post-content-wrap > div.okam-ad-position-wrap.single-inbetween-stories.okam-device-desktop:nth-of-type(1)
+www.onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.single-inbetween-stories-2.okam-device-desktop.single-inbetween-stories
+www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
+! ----- END https://www.onlinekhabar.com -----
