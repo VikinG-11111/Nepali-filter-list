@@ -65,6 +65,10 @@ gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-
 gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-type(1) > .col-lg-3.small-block
 ! ----- END https://gorkhapatraonline.com -----
 
+! ----- START https://hamrocsit.com -----
+hamrocsit.com###site-header > div.row:nth-of-type(1)
+! ----- END https://hamrocsit.com -----
+
 ! ----- START https://www.hamrokhelkud.com -----
 www.hamrokhelkud.com##.display.py-3
 www.hamrokhelkud.com##.display.py-40
