@@ -61,3 +61,15 @@ www.setopati.com##.embed-responsive.embed-responsive-16by9
 www.setopati.com##.row.bottom-bigyaapan
 www.setopati.com##div.insert-ad:nth-of-type(1) > .items.desktop-bigyaapan-only
 ! ----- END https://www.setopati.com -----
+
+! ----- START https://ekantipur.com -----
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/berger-flexobanner-970120-17112024081630.gif"]
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/nt-fiber-gif-950x125-pxl-0222025060522.gif"]
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/970x120px-1-3132025053126.png"]
+ekantipur.com###roadblock-ad
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/ls-auto-giff-900x100-2432025125116.gif"]
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/900x100-22122024112316.gif"]
+ekantipur.com##div.ekans-wrapper:nth-of-type(2) > .ekans-row
+ekantipur.com##div.ekans-wrapper:nth-of-type(3) > .ekans-row
+ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/900-x-100-ekantipurcom-1822025064251.gif"]
+! ----- END https://ekantipur.com -----
