@@ -40,7 +40,7 @@ You can use Nepali-filter-list with any adblocker that supports custom filter li
 
 ## 🛠️ Contribution
 
-Found an unblocked ad or broken site? Help us improve by opening an [Issue]([https://github.com/VikinG-11111/Nepali-filter-list/issues]) or submitting a [Pull Request](https://github.com/VikinG-11111/Nepali-filter-list/pulls).
+Found an unblocked ad or broken site? Help us improve by opening an [Issue](https://github.com/VikinG-11111/Nepali-filter-list/issues) or submitting a [Pull Request](https://github.com/VikinG-11111/Nepali-filter-list/pulls).
 
 Please include:
 - Website URL
