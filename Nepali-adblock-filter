@@ -125,6 +125,24 @@ neplays.com##[src*="../img/ads-img/New-GHCA.gif"]
 neplays.com##.ad--space.pd--20-0-40
 ! ----- END https://www.neplays.com -----
 
+! ----- START https://www.nepalpress.com -----
+www.nepalpress.com##.gam-npad-position-wrap.home-after-main-menu-desktop
+www.nepalpress.com##.gam-npad-position-wrap.home-after-1breaking
+www.nepalpress.com##section.section-np-space:nth-of-type(3)
+www.nepalpress.com##section.section-np-space:nth-of-type(5)
+www.nepalpress.com##.gam-npad-position-wrap.home-rajniti-right
+www.nepalpress.com##section.section-np-space:nth-of-type(7)
+www.nepalpress.com##section.section-np-space:nth-of-type(10)
+www.nepalpress.com##section.section-np-space:nth-of-type(11)
+www.nepalpress.com##section.section-np-space:nth-of-type(13)
+www.nepalpress.com##section.section-np-space:nth-of-type(20)
+www.nepalpress.com###primary > section.section-np-space:nth-of-type(2)
+www.nepalpress.com##[src*="https://www.nepalpress.com/wp-content/uploads/2023/10/900X1003.gif"]
+www.nepalpress.com##div.singlerowpds.oneCount:nth-of-type(5) > .desktop-view > .gam-npad-position-wrap.single-inbetweenstories-1
+www.nepalpress.com##div.singlerowpds:nth-of-type(6) > .desktop-view > .gam-npad-position-wrap.single-inbetweenstories-2
+www.nepalpress.com##[src*="https://www.nepalpress.com/wp-content/uploads/2022/02/NEP-Social-Media-Ad-320x200-1.gif"]
+! ----- END https://www.nepalpress.com -----
+
 ! ----- START https://www.onlinekhabar.com -----
 ! English one 
 english.onlinekhabar.com###okam-ad-718
