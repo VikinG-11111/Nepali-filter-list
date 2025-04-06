@@ -32,6 +32,15 @@ ekantipur.com##div.ekans-wrapper:nth-of-type(3) > .ekans-row
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/900-x-100-ekantipurcom-1822025064251.gif"]
 ! ----- END https://ekantipur.com -----
 
+! -----START https://goalnepal.com -----
+goalnepal.com##.right-box.col-xs-14.col-sm-10.col-md-11
+goalnepal.com###four-bigs
+goalnepal.com##.section.adbox.above-news > .row > .first-ad.col-xs-14.col-sm-7.col-md-7
+goalnepal.com##.section.adbox.above-news > .row
+goalnepal.com##[src*="https://goalnepal.com/uploads/banners/1647501374.gif"]
+goalnepal.com##[src*="https://goalnepal.com/uploads/banners/1582350500.jpg"]
+! ----- END https://goalnepal.com -----
+
 ! ----- START https://gorkhapatraonline.com -----
 gorkhapatraonline.com##section.bigyapan-section.\31 :nth-of-type(12)
 gorkhapatraonline.com##section.bigyapan-section.\31 :nth-of-type(15)
