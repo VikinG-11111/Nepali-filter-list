@@ -203,6 +203,12 @@ www.onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.si
 www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
 ! ----- END https://www.onlinekhabar.com -----
 
+! ----- START https://www.osnepal.com -----
+www.osnepal.com##div.addcomponent:nth-of-type(1)
+www.osnepal.com##.section.gap2.gap > .container > div.row:nth-of-type(1) > .col-lg-4.mt-lg-0.mt-4
+www.osnepal.com##.alignnone.size-medium.wp-image-243316
+! ----- END https://www.osnepal.com -----
+
 ! ----- START https://ratopati.com/ -----
 www.ratopati.com##[href*="https://cgdigital.com.np/"] > .animate__animated.animate__fast.fadeIn
 www.ratopati.com##[href*="https://www.facebook.com/peugeotmotocyclesnp"] > .animate__animated.animate__fast.fadeIn
