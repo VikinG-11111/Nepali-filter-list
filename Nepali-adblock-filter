@@ -140,6 +140,32 @@ www.onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.si
 www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
 ! ----- END https://www.onlinekhabar.com -----
 
+! ----- START https://ratopati.com/ -----
+www.ratopati.com##[href*="https://cgdigital.com.np/"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://www.facebook.com/peugeotmotocyclesnp"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://bit.ly/3VkF88r"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##.section.section-samachar-news > .dn-container > .flex.flex-wrap > .dn__side--add > .sticky.sidebar-adv.dnn-ad-placeholder > .desktop-mode
+www.ratopati.com##div.full-banner-adv:nth-of-type(16)
+www.ratopati.com##.section.section-hour-news > .dn-container > .flex.flex-wrap > .dn__side--add > .sticky.sidebar-adv.dnn-ad-placeholder > .desktop-mode
+www.ratopati.com##div.full-banner-adv:nth-of-type(18)
+www.ratopati.com##.skip__banner-ad
+www.ratopati.com##div.full-banner-adv:nth-of-type(15)
+www.ratopati.com##[href*="https://nmb.com.np/security-tips"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://www.facebook.com/lsautonepal"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##.sidebar-adv.dnn-ad-placeholder > .desktop-mode
+www.ratopati.com##[href*="https://www.premier.edu.np/pre-registration/"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##.content-banner--single
+www.ratopati.com##.classified_header.flex.flex-middle.flex-wrap.flex-between
+www.ratopati.com##.classified-container
+www.ratopati.com##[href*="https://www.youtube.com/watch"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://shivamcement.com.np/shivamsandesh"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://www.nabilbank.com/individual"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##[href*="https://connectips.com/"] > .animate__animated.animate__fast.fadeIn
+www.ratopati.com##div.contentarea-adv.full-banner-adv:nth-of-type(7) > .dn-container.dnn-ad-placeholder > .desktop-mode
+www.ratopati.com##div.contentarea-adv.full-banner-adv:nth-of-type(9) > .dn-container.dnn-ad-placeholder > .desktop-mode
+www.ratopati.com##[href*="https://www.classic.com.np/"] > .animate__animated.animate__fast.fadeIn
+! ----- END https://ratopati.com/ -----
+
 ! ----- START https://www.setopati.com -----
 www.setopati.com##.col-md-12.mast-head > .row
 www.setopati.com###content > div.container:nth-of-type(1) > div.section.desktop-bigyaapan-only:nth-of-type(1) > .container > .row > .full-bigyaapan.col-md-12
