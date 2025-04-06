@@ -92,6 +92,12 @@ deshsanchar.com##div.divider:nth-of-type(40)
 deshsanchar.com##.alignnone.size-full.wp-image-1027982
 ! ----- END https://deshsanchar.com/ -----
 
+! ----- START https://www.eadarsha.com -----
+||eadarsha.com/wp-content/uploads/*.gif$image
+www.eadarsha.com##.eadar-content_2
+||i0.wp.com/www.eadarsha.com/wp-content/uploads/*.gif$image
+! ----- END https://www.educatenepal.com -----
+
 ! ----- START https://ekantipur.com -----
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/berger-flexobanner-970120-17112024081630.gif"]
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/nt-fiber-gif-950x125-pxl-0222025060522.gif"]
