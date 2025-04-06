@@ -101,6 +101,19 @@ www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(2)
 kathmandupress.com##.row.bigyaapan-box.split-box.editor-bigyaapan
 ! ----- END https://kathmandupress.com -----
 
+! ----- START https://www.khabarhub.com/ -----
+khabarhub.com##.uk-container.uk-margin-top > section.widget:nth-of-type(1)
+khabarhub.com##.image.wp-image-726657.attachment-full.size-full
+khabarhub.com##.uk-container.uk-margin-top > section.widget:nth-of-type(3)
+khabarhub.com##.image.wp-image-768281.attachment-full.size-full
+khabarhub.com##.uk-width-1-4\@m.custom-list
+khabarhub.com##.wp-block-image.size-full
+khabarhub.com##.title-top.landing-page-sidebar.uk-text-center.uk-margin-small-bottom > section.widget:nth-of-type(1)
+khabarhub.com##section.widget:nth-of-type(2)
+khabarhub.com##.image.wp-image-758543.attachment-full.size-full
+khabarhub.com##.image.wp-image-599971.attachment-full.size-full
+! ----- END https://www.khabarhub.com/ -----
+
 ! ----- START https://www.khelpati.com -----
 www.khelpati.com##.bigyapan.header-bottom.col-md-8
 www.khelpati.com##section.section.full-bigyapan:nth-of-type(1)
