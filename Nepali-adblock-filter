@@ -38,3 +38,26 @@ www.onlinekhabar.com##.ok18-single-post-content-wrap > div.okam-ad-position-wrap
 www.onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.single-inbetween-stories-2.okam-device-desktop.single-inbetween-stories
 www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
 ! ----- END https://www.onlinekhabar.com -----
+
+! ----- START https://www.setopati.com -----
+www.setopati.com##.col-md-12.mast-head > .row
+www.setopati.com###content > div.container:nth-of-type(1) > div.section.desktop-bigyaapan-only:nth-of-type(1) > .container > .row > .full-bigyaapan.col-md-12
+www.setopati.com###content > div.container:nth-of-type(1) > div.section.desktop-bigyaapan-only:nth-of-type(3) > .container > .row > .full-bigyaapan.col-md-12
+www.setopati.com##div.section.desktop-bigyaapan-only:nth-of-type(5) > .container > .row > .full-bigyaapan.col-md-12
+www.setopati.com##div.section.desktop-bigyaapan-only:nth-of-type(7) > .container > .row > .full-bigyaapan.col-md-12
+www.setopati.com##div.items.bigyaapan-item.first.desktop-bigyaapan-only:nth-of-type(1) > [href*="https://imeremit.com.np/blogs/ime-garaun-uddhyami-banau/"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.items.bichar.bichar-mobile.bichar-first:nth-of-type(4) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-of-type(2) > [href*="https://www.kumaribank.com/"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.media.bigyaapan-item.desktop-bigyaapan-only:nth-of-type(4) > [href*="https://www.nepallife.com.np/en/home"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.media.bigyaapan-item.desktop-bigyaapan-only:nth-of-type(7) > [href*="https://www.mahalaxmibank.com/"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.items.bigyaapan-item.first.desktop-bigyaapan-only:nth-of-type(5) > [href*="https://www.muktinathbank.com.np/online/loan-application"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.items.bichar.bichar-mobile.bichar-first:nth-of-type(7) > div.media.bigyaapan-item.desktop-bigyaapan-only:nth-of-type(2) > [href*="https://www.hamropatro.com/news"] > .ls-is-cached.lazyloaded
+www.setopati.com##div.media.bigyaapan-item.desktop-bigyaapan-only:nth-of-type(5) > [href*="https://shivamcement.com.np/shivamsandesh"] > .ls-is-cached.lazyloaded
+www.setopati.com###inner-jacket > .modal_content > .imagebox
+www.setopati.com###inner-jacket > .modal_content
+www.setopati.com###inner-jacket
+www.setopati.com##div.main-bigyaapan.top-full.col-md-12:nth-of-type(5)
+www.setopati.com##div.insert-ad:nth-of-type(3)
+www.setopati.com##.embed-responsive.embed-responsive-16by9
+www.setopati.com##.row.bottom-bigyaapan
+www.setopati.com##div.insert-ad:nth-of-type(1) > .items.desktop-bigyaapan-only
+! ----- END https://www.setopati.com -----
