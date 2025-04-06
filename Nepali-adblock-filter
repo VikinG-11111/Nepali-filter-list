@@ -403,6 +403,13 @@ www.reportersnepal.com##.image.wp-image-992293.attachment-full.size-full
 www.reportersnepal.com##.image.wp-image-1041595.attachment-full.size-full
 ! ----- END https://www.reportersnepal.com/ -----
 
+! ----- START https://samadhannews.com -----
+samadhannews.com##.full-bann
+samadhannews.com##.cont_break_ads
+www.samadhannews.com###fp_ad
+www.samadhannews.com##[src*="https://www.samadhannews.com/wp-content/uploads/2025/02/1200x100-momo-house.jpg"]
+! ----- END https://www.samadhannews.com -----
+
 ! ----- START https://sancharkendra.com/ -----
 sancharkendra.com##.image.wp-image-242640.attachment-full.size-full
 sancharkendra.com##.image.wp-image-213520.attachment-full.size-full
