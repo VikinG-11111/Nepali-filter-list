@@ -248,6 +248,21 @@ www.setopati.com##.row.bottom-bigyaapan
 www.setopati.com##div.insert-ad:nth-of-type(1) > .items.desktop-bigyaapan-only
 ! ----- END https://www.setopati.com -----
 
+! ----- START www.sharesansar.com -----
+www.sharesansar.com##.main-content > div.container:nth-of-type(1) > .row > div.col-md-12:nth-of-type(1)
+www.sharesansar.com##.col-lg-9.col-md-9.col-sm-8.col-xs-12.sp-fix > div.row:nth-of-type(1) > div.col-md-12.margin-bottom-20.full-width-image:nth-of-type(5) > .advsTrack > .img-responsive
+www.sharesansar.com##div.col-md-12.col-xs-11.margin-bottom-20.full-width-image:nth-of-type(4)
+www.sharesansar.com##div.col-md-12.col-xs-11.margin-bottom-20.full-width-image:nth-of-type(5)
+www.sharesansar.com##div.col-md-12.margin-bottom-20.full-width-image:nth-of-type(8) > .advsTrack > .img-responsive
+www.sharesansar.com##.img-responsive.featured-image.pull-right
+www.sharesansar.com##div.margin-bottom-20:nth-of-type(7) > .advsTrack > .img-responsive.img-thumbnail
+www.sharesansar.com##.col-lg-3.col-md-3.col-sm-4.col-xs-12 > div.margin-bottom-20:nth-of-type(6) > .advsTrack > .img-responsive.img-thumbnail
+www.sharesansar.com##div.margin-bottom-20:nth-of-type(5) > .advsTrack > .img-responsive.img-thumbnail
+www.sharesansar.com##.detail.b-shadow.margin-bottom-20 > .col-md-12 > .margin-bottom-20 > .advsTrack > .img-responsive
+www.sharesansar.com##picture > img.img-responsive
+www.sharesansar.com##div.margin-bottom-20:nth-of-type(4) > .advsTrack > .img-responsive.img-thumbnail
+! ----- END www.sharesansar.com -----
+
 ! ----- START https://shilapatra.com -----
 shilapatra.com##[src*="https://shilapatra.com/uploads/bigyaapan/51353900.gif"]
 shilapatra.com##[src*="https://shilapatra.com/uploads/bigyaapan/50443400.gif"]
