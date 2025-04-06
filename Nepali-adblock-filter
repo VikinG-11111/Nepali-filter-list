@@ -84,6 +84,13 @@ www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(2)
 kathmandupress.com##.row.bigyaapan-box.split-box.editor-bigyaapan
 ! ----- END https://kathmandupress.com -----
 
+! ----- START https://www.khelpati.com -----
+www.khelpati.com##.bigyapan.header-bottom.col-md-8
+www.khelpati.com##section.section.full-bigyapan:nth-of-type(1)
+www.khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .row.bigyapan-box > div.col-sm-6.col-md-6:nth-of-type(2)
+www.khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .row.bigyapan-box
+! ----- END https://www.khelpati.com -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
