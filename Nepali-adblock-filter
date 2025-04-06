@@ -95,6 +95,10 @@ www.khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0
 www.khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .row.bigyapan-box
 ! ----- END https://www.khelpati.com -----
 
+! ----- START https://lokaantar.com -----
+lokaantar.com##section:nth-of-type(10)
+! ----- END https://lokaantar.com -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
