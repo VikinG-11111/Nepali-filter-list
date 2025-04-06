@@ -58,6 +58,11 @@ neplays.com##.ad--space.pd--20-0-40
 ! ----- END https://www.neplays.com -----
 
 ! ----- START https://www.onlinekhabar.com -----
+! English one 
+english.onlinekhabar.com###okam-ad-718
+english.onlinekhabar.com##.ok-sidebar-subscribe
+
+!Nepali one
 www.onlinekhabar.com##.ok_roadblock > .flex-box
 www.onlinekhabar.com##[src*="https://www.onlinekhabar.com/wp-content/uploads/2025/04/1230x1001.gif"]
 www.onlinekhabar.com##.ok_roadblock
