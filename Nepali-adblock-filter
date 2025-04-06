@@ -114,16 +114,21 @@ nepalkhabar.com##[href*="https://www.nmb.com.np/np/individual"] > .uk-visible\@s
 nepalkhabar.com##.bannergroup.uk-visible\@s.no-lazy.uk-margin-medium.uk-panel
 ! ----- END https://nepalkhabar.com -----
 
-! ----- START https://www.neplays.com -----
-www.neplays.com##div.header--mainbar:nth-of-type(2)
-www.neplays.com##div.container:nth-of-type(2)
-www.neplays.com##.main--content.col-md-8.col-sm-7 > .sticky-content-inner > div.row:nth-of-type(1) > div.col-md-12.ptop--30.pbottom--30:nth-of-type(3)
-neplays.com##div.header--mainbar:nth-of-type(2)
-neplays.com##[src*="https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"]
-neplays.com##.main--sidebar.col-md-4.ptop--30.pbottom--30
-neplays.com##[src*="../img/ads-img/New-GHCA.gif"]
-neplays.com##.ad--space.pd--20-0-40
-! ----- END https://www.neplays.com -----
+! ----- START https://nepallive.com -----
+nepallive.com###header > div.section.mt-3:nth-of-type(3)
+nepallive.com###header > div.section.mt-3:nth-of-type(4)
+nepallive.com##[src*="https://nepallive.net/uploads/bigyaapan/71003100.gif"]
+nepallive.com##div.section.mt-3.mb-3:nth-of-type(3)
+nepallive.com##div.section.mt-3.mb-3:nth-of-type(2)
+nepallive.com##[src*="https://nepallive.net/uploads/bigyaapan/14292500.gif"]
+nepallive.com##div.section.mt-3.mb-3:nth-of-type(4)
+nepallive.com##div.section.mt-3.mb-3:nth-of-type(5)
+nepallive.com##div.section.mb-3:nth-of-type(6)
+nepallive.com##[src*="https://nepallive.net/uploads/bigyaapan/20923600.gif"]
+nepallive.com##div.row.insert-ad.mt-2.mb-3:nth-of-type(5)
+nepallive.com##[src*="https://nepallive.net/uploads/bigyaapan/41439300.gif"]
+nepallive.com##.section.content-editor > section.section.full-bigyapan.mt-1.mb-1:nth-of-type(1)
+! ----- END https://nepallive.com -----
 
 ! ----- START https://www.nepalpress.com -----
 www.nepalpress.com##.gam-npad-position-wrap.home-after-main-menu-desktop
@@ -142,6 +147,17 @@ www.nepalpress.com##div.singlerowpds.oneCount:nth-of-type(5) > .desktop-view > .
 www.nepalpress.com##div.singlerowpds:nth-of-type(6) > .desktop-view > .gam-npad-position-wrap.single-inbetweenstories-2
 www.nepalpress.com##[src*="https://www.nepalpress.com/wp-content/uploads/2022/02/NEP-Social-Media-Ad-320x200-1.gif"]
 ! ----- END https://www.nepalpress.com -----
+
+! ----- START https://www.neplays.com -----
+www.neplays.com##div.header--mainbar:nth-of-type(2)
+www.neplays.com##div.container:nth-of-type(2)
+www.neplays.com##.main--content.col-md-8.col-sm-7 > .sticky-content-inner > div.row:nth-of-type(1) > div.col-md-12.ptop--30.pbottom--30:nth-of-type(3)
+neplays.com##div.header--mainbar:nth-of-type(2)
+neplays.com##[src*="https://neplays.com/img/ads-img/ads-63401c290b7deads-61d4579d552abKelmi1.gif"]
+neplays.com##.main--sidebar.col-md-4.ptop--30.pbottom--30
+neplays.com##[src*="../img/ads-img/New-GHCA.gif"]
+neplays.com##.ad--space.pd--20-0-40
+! ----- END https://www.neplays.com -----
 
 ! ----- START https://www.onlinekhabar.com -----
 ! English one 
