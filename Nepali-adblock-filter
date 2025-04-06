@@ -20,6 +20,11 @@ baahrakhari.com##.left-side.col-sm-8.col-md-8.mt-0.offset-md-1 > section.section
 baahrakhari.com##a[href*="https://remit.hamropatro.com/"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
 ! ----- END https://baahrakhari.com -----
 
+! ----- START https://bizkhabar.com/ -----
+bizkhabar.com##.widget
+www.bizkhabar.com##.uk-grid.uk-grid-match.uk-margin-medium-top > .uk-width-1-3\@m > .uk-card.uk-card-default
+! ----- END https://bizkhabar.com/ -----
+
 ! ----- START https://bizmandu.com/ -----
 bizmandu.com##.sidebar-advs
 bizmandu.com##.bigyapan-inside-content
