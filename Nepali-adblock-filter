@@ -284,3 +284,15 @@ techlekh.com###first_suzuki
 techlekh.com###pum-88515
 techlekh.com###ldgn-sticky-bar
 ! ----- END https://techlekh.com -----
+
+! ----- START https://thahakhabar.com -----
+thahakhabar.com##section.section:nth-of-type(3)
+thahakhabar.com##section.section:nth-of-type(6)
+thahakhabar.com##section.section:nth-of-type(7) > .container > div.row:nth-of-type(1) > .col-lg-3 > .row > div.col-md-12:nth-of-type(1) > div.col-md-12:nth-of-type(1) > .col-md-12
+thahakhabar.com##section.section:nth-of-type(9)
+thahakhabar.com##.col-xl-9.col-lg-9.col-md-8 > .section > .container
+thahakhabar.com##.col-lg-9 > div.mt-30.mb-30:nth-of-type(1) > .bigyapan-gif-gallery.border-box > [href*="https://www.vianet.com.np/sambapack/"] > .lazy-loaded
+thahakhabar.com##[src*="https://thahacdn.prixacdn.net/media/250.250_DH.gif"]
+thahakhabar.com##[href*="https://www.mahalaxmibank.com/"] > .lazy-loaded
+thahakhabar.com##.bigyapan-gif-gallery.mb-30 > [href*="https://www.vianet.com.np/sambapack/"] > .lazy-loaded
+! ----- END https://thahakhabar.com -----
