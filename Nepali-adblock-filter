@@ -215,6 +215,16 @@ merokhel.com##.image.wp-image-27922.attachment-full.size-full
 merokhel.com###sidebar-above-comment
 ! ----- END https://merokhel.com/ -----
 
+! ----- START https://nagariknews.com/ -----
+nagariknews.nagariknetwork.com###desktopNotice1111
+nagariknews.nagariknetwork.com##section.py-2:nth-of-type(4) > div.container:nth-of-type(1) > .row > .col-lg-4.sidebar
+nagariknews.nagariknetwork.com###desktopNotice45
+nagariknews.nagariknetwork.com###desktopNotice1114
+nagariknews.nagariknetwork.com##.alert.alert-dismissible.alert-light.fade.fixed-bottom.show.m-0.desktop-notice.footer-sticky-ad.container
+nagariknews.nagariknetwork.com##.ads_detail_after_side_after
+nagariknews.nagariknetwork.com##.col-md-12.mb-2
+! ----- END https://https://nagariknews.com/ -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
