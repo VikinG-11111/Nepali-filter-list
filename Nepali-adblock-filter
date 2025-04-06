@@ -55,6 +55,14 @@ gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-
 gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-type(1) > .col-lg-3.small-block
 ! ----- END https://gorkhapatraonline.com -----
 
+! ----- START https://www.hamrokhelkud.com -----
+www.hamrokhelkud.com##.display.py-3
+www.hamrokhelkud.com##.display.py-40
+www.hamrokhelkud.com##.py-60.top-income-source-wrapper
+www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(1) > .banner-click-action
+www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(3) > .banner-click-action > .ls-is-cached.lazyloaded
+! ----- END https://www.hamrokhelkud.com -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
