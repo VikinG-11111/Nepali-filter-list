@@ -215,6 +215,12 @@ merokhel.com##.image.wp-image-27922.attachment-full.size-full
 merokhel.com###sidebar-above-comment
 ! ----- END https://merokhel.com/ -----
 
+! ----- START https://myrepublica.com/ -----
+myrepublica.nagariknetwork.com##section.rep-container:nth-of-type(3)
+myrepublica.nagariknetwork.com##.h-\[60px\].w-full.bg-\[\#F5F5F5\] > [href*="https://myrepublica.nagariknetwork.com/plans"]
+myrepublica.nagariknetwork.com##.h-\[60px\].w-full.bg-\[\#F5F5F5\]
+! ----- END https://https://myrepublica.com/ -----
+
 ! ----- START https://nagariknews.com/ -----
 nagariknews.nagariknetwork.com###desktopNotice1111
 nagariknews.nagariknetwork.com##section.py-2:nth-of-type(4) > div.container:nth-of-type(1) > .row > .col-lg-4.sidebar
