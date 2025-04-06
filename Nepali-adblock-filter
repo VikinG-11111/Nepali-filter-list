@@ -366,6 +366,22 @@ www.reportersnepal.com##.image.wp-image-992293.attachment-full.size-full
 www.reportersnepal.com##.image.wp-image-1041595.attachment-full.size-full
 ! ----- END https://www.reportersnepal.com/ -----
 
+! ----- START https://sancharkendra.com/ -----
+sancharkendra.com##.image.wp-image-242640.attachment-full.size-full
+sancharkendra.com##.image.wp-image-213520.attachment-full.size-full
+sancharkendra.com##.image.wp-image-237506.attachment-full.size-full
+sancharkendra.com##[href*="https://www.facebook.com/universalthoughtconsult/"] > .image
+sancharkendra.com##div.h2:nth-of-type(19) > div.h10.clear:nth-of-type(2)
+sancharkendra.com##.image.wp-image-237107.attachment-full.size-full
+sancharkendra.com##.image.wp-image-189914.attachment-full.size-full
+sancharkendra.com##.image.wp-image-217668.attachment-full.size-full
+sancharkendra.com##.image.wp-image-217458.attachment-full.size-full
+sancharkendra.com##.image.wp-image-237560.attachment-full.size-full
+sancharkendra.com##.image.wp-image-242907.attachment-full.size-full
+sancharkendra.com##.cl7.fl > div.skada:nth-of-type(2) > code > .textwidget > p
+sancharkendra.com##.image.wp-image-242264.attachment-full.size-full
+! ----- END https://sancharkendra.com/ -----
+
 ! ----- START https://www.setopati.com -----
 www.setopati.com##.col-md-12.mast-head > .row
 www.setopati.com###content > div.container:nth-of-type(1) > div.section.desktop-bigyaapan-only:nth-of-type(1) > .container > .row > .full-bigyaapan.col-md-12
