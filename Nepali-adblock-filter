@@ -277,6 +277,26 @@ www.ratopati.com##div.contentarea-adv.full-banner-adv:nth-of-type(9) > .dn-conta
 www.ratopati.com##[href*="https://www.classic.com.np/"] > .animate__animated.animate__fast.fadeIn
 ! ----- END https://ratopati.com/ -----
 
+! ----- START https://www.reportersnepal.com/ -----
+www.reportersnepal.com##.image.wp-image-1068656.attachment-full.size-full
+www.reportersnepal.com##.wp-image-771871
+www.reportersnepal.com##.image.wp-image-1040913.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-952429.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-584479.attachment-full.size-full
+www.reportersnepal.com##.wp-image-743721
+www.reportersnepal.com##.image.wp-image-1041600.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-945778.attachment-full.size-full
+www.reportersnepal.com##.wp-image-953819
+www.reportersnepal.com##.image.wp-image-840301.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-953054.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-755898.attachment-full.size-full
+www.reportersnepal.com##.body-section > div.uk-container:nth-of-type(1) > .uk-container > .uk-margin-medium-top.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-width-1-1.uk-first-column
+www.reportersnepal.com##.image.wp-image-883091.attachment-full.size-full
+www.reportersnepal.com##.wp-image-662710
+www.reportersnepal.com##.image.wp-image-992293.attachment-full.size-full
+www.reportersnepal.com##.image.wp-image-1041595.attachment-full.size-full
+! ----- END https://www.reportersnepal.com/ -----
+
 ! ----- START https://www.setopati.com -----
 www.setopati.com##.col-md-12.mast-head > .row
 www.setopati.com###content > div.container:nth-of-type(1) > div.section.desktop-bigyaapan-only:nth-of-type(1) > .container > .row > .full-bigyaapan.col-md-12
