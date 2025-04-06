@@ -20,6 +20,14 @@ baahrakhari.com##.left-side.col-sm-8.col-md-8.mt-0.offset-md-1 > section.section
 baahrakhari.com##a[href*="https://remit.hamropatro.com/"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
 ! ----- END https://baahrakhari.com -----
 
+bizmandu.com##div[class*="-ad"]
+bizmandu.com##.sidebar-advs
+bizmandu.com##.bigyapan-inside-content
+bizmandu.com##.biz-ad-block
+bizmandu.com##.okam-each-ad
+bizmandu.com##.banner-img
+! ----- END https://bizmandu.com/ -----
+
 ! ----- START https://dainiki.com/ -----
 dainiki.com##.image.wp-image-334845.attachment-full.size-full
 dainiki.com##.image.wp-image-269470.attachment-full.size-full
