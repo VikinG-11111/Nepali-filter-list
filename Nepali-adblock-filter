@@ -568,7 +568,8 @@ thahakhabar.com##.col-xl-9.col-lg-9.col-md-8 > .section > .container
 thahakhabar.com##.col-lg-9 > div.mt-30.mb-30:nth-of-type(1) > .bigyapan-gif-gallery.border-box > [href*="https://www.vianet.com.np/sambapack/"] > .lazy-loaded
 thahakhabar.com##[src*="https://thahacdn.prixacdn.net/media/250.250_DH.gif"]
 thahakhabar.com##[href*="https://www.mahalaxmibank.com/"] > .lazy-loaded
-thahakhabar.com##.bigyapan-gif-gallery.mb-30 > [href*="https://www.vianet.com.np/sambapack/"] > .lazy-loaded
+thahakhabar.com##.bigyapan-gif-gallery  
+thahakhabar.com##section.section:nth-of-type(10) > .container > div.row:nth-of-type(1) > .col-lg-3 > .row
 ! ----- END https://thahakhabar.com -----
 
 ! ----- START https://ujyaaloonline.com -----
