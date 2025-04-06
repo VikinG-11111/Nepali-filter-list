@@ -63,6 +63,13 @@ www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(1) > .banner-click-act
 www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(3) > .banner-click-action > .ls-is-cached.lazyloaded
 ! ----- END https://www.hamrokhelkud.com -----
 
+! ----- START https://www.himalkhabar.com -----
+www.himalkhabar.com###header > .section.mt-3.mb-3
+www.himalkhabar.com##.breaking-box.break-normal.col-md-12 > .section.mt-3.mb-3 > .container
+www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(1)
+www.himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(2)
+! ----- END https://www.himalkhabar.com -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
