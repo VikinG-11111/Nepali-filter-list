@@ -22,7 +22,7 @@ You can use Nepali-filter-list with any adblocker that supports custom filter li
 1. Open uBlock Origin dashboard (click the extension → **Settings** icon)
 2. Go to the **Filter Lists** tab
 3. Scroll down to **Custom** > click **Import**
-4. Paste this URL: https://raw.githubusercontent.com/VikinG-11111/Nepali-filter-list/refs/heads/main/Nepali-adblock-filter
+4. Paste this URL: https://raw.githubusercontent.com/VikinG-11111/Nepali-filter-list/main/Nepali-adblock-filter
 5. Click **Apply Changes**
 
 ---
@@ -31,7 +31,7 @@ You can use Nepali-filter-list with any adblocker that supports custom filter li
 
 1. Open Brave and go to `brave://adblock`
 2. Scroll to the bottom under **Custom Filters**
-3. Paste this URL in the **"Add a new filter list"** field: https://raw.githubusercontent.com/VikinG-11111/Nepali-filter-list/refs/heads/main/Nepali-adblock-filter
+3. Paste this URL in the **"Add a new filter list"** field: https://raw.githubusercontent.com/VikinG-11111/Nepali-filter-list/main/Nepali-adblock-filter
 4. Click **Add**
 5. Make sure the toggle is **ON** beside the new list
 6. Refresh any Nepali websites to see it in action
