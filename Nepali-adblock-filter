@@ -20,6 +20,16 @@ baahrakhari.com##.left-side.col-sm-8.col-md-8.mt-0.offset-md-1 > section.section
 baahrakhari.com##a[href*="https://remit.hamropatro.com/"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
 ! ----- END https://baahrakhari.com -----
 
+! ----- START https://www.dcnepal.com -----
+www.dcnepal.com##.gam-ad-position-wrap.home-header-logo-right
+www.dcnepal.com##div.ad-container:nth-of-type(1)
+www.dcnepal.com###primary > div.ad-container:nth-of-type(2)
+www.dcnepal.com##div.ad-container:nth-of-type(9)
+www.dcnepal.com###page > div.ad-container:nth-of-type(2)
+www.dcnepal.com##.gam-ad-position-wrap.single-after-featured-photo
+www.dcnepal.com##.gam-ad-position-wrap.single-after-news
+! ----- END https://www.dcnepal.com -----
+
 ! ----- START https://ekantipur.com -----
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/berger-flexobanner-970120-17112024081630.gif"]
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/nt-fiber-gif-950x125-pxl-0222025060522.gif"]
