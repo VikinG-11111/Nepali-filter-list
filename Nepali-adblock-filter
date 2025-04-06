@@ -30,6 +30,36 @@ www.dcnepal.com##.gam-ad-position-wrap.single-after-featured-photo
 www.dcnepal.com##.gam-ad-position-wrap.single-after-news
 ! ----- END https://www.dcnepal.com -----
 
+! ----- START https://deshsanchar.com/ -----
+deshsanchar.com##.top-special-news > div.widget:nth-of-type(1) > .ds-desktop-ad
+deshsanchar.com##.alignnone.size-full.wp-image-993475
+deshsanchar.com##.section__special-news > div.widget:nth-of-type(1) > .ds-desktop-ad
+deshsanchar.com##.section__special-news > div.widget:nth-of-type(3) > .ds-desktop-ad > [href*="https://www.ntc.net.np/tariff/ftth-tariff"] > .alignnone.size-full.wp-image-1030193
+deshsanchar.com##.alignnone.size-full.wp-image-1023553
+deshsanchar.com##div.widget:nth-of-type(7) > .ds-desktop-ad
+deshsanchar.com##.alignnone.size-full.wp-image-1024893
+deshsanchar.com##div.widget:nth-of-type(11) > .ds-desktop-ad
+deshsanchar.com##div.widget:nth-of-type(13) > .ds-desktop-ad > [href*="https://www.facebook.com/GACMotorNepal/"] > .alignnone.size-full.wp-image-1022133
+deshsanchar.com##.alignnone.size-full.wp-image-842884
+deshsanchar.com##div.widget:nth-of-type(16) > .ds-desktop-ad
+deshsanchar.com##div.widget:nth-of-type(18) > .ds-desktop-ad > [href*="https://www.shikharinsurance.com/"] > .alignnone.size-full.wp-image-913695
+deshsanchar.com##.alignnone.size-full.wp-image-1017511
+deshsanchar.com##.col-md-9.divider-vertical--right > div.row:nth-of-type(1) > div.col-12:nth-of-type(1) > .widget > .ds-desktop-ad > [href*="https://www.facebook.com/Savitriincense/"] > .alignnone.size-full.wp-image-978283
+deshsanchar.com##.alignnone.size-full.wp-image-854684
+deshsanchar.com##.alignnone.size-full.wp-image-1022225
+deshsanchar.com##.alignnone.size-full.wp-image-995604
+deshsanchar.com##.alignnone.size-full.wp-image-1011136
+deshsanchar.com##.alignnone.size-full.wp-image-896717
+deshsanchar.com##div.story-container.sidebar-story.sidebar-story--special:nth-of-type(37)
+deshsanchar.com##.alignnone.size-full.wp-image-1027981
+deshsanchar.com##div.divider:nth-of-type(34)
+deshsanchar.com##div.divider:nth-of-type(38)
+deshsanchar.com##div.divider:nth-of-type(36)
+deshsanchar.com##div.divider:nth-of-type(32)
+deshsanchar.com##div.divider:nth-of-type(40)
+deshsanchar.com##.alignnone.size-full.wp-image-1027982
+! ----- END https://deshsanchar.com/ -----
+
 ! ----- START https://ekantipur.com -----
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/berger-flexobanner-970120-17112024081630.gif"]
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/nt-fiber-gif-950x125-pxl-0222025060522.gif"]
