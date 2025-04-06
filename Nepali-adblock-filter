@@ -325,3 +325,7 @@ thahakhabar.com##[src*="https://thahacdn.prixacdn.net/media/250.250_DH.gif"]
 thahakhabar.com##[href*="https://www.mahalaxmibank.com/"] > .lazy-loaded
 thahakhabar.com##.bigyapan-gif-gallery.mb-30 > [href*="https://www.vianet.com.np/sambapack/"] > .lazy-loaded
 ! ----- END https://thahakhabar.com -----
+
+! ----- START https://ujyaaloonline.com -----
+ujyaaloonline.com##section.main-wrapper.bg-grey:nth-of-type(4)
+! ----- END https://ujyaaloonline.com -----
