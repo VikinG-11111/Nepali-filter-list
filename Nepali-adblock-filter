@@ -159,6 +159,22 @@ www.khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0
 lokaantar.com##section:nth-of-type(10)
 ! ----- END https://lokaantar.com -----
 
+! ----- START https://merokhel.com/ -----
+merokhel.com###sidebar-header-right
+merokhel.com###media_image-53
+merokhel.com###media_image-68
+merokhel.com###media_image-80
+merokhel.com###media_image-91
+merokhel.com###media_image-10
+merokhel.com###media_image-71
+merokhel.com###media_image-88
+merokhel.com###media_image-33
+merokhel.com###media_image-73
+merokhel.com###media_image-74
+merokhel.com##.image.wp-image-27922.attachment-full.size-full
+merokhel.com###sidebar-above-comment
+! ----- END https://merokhel.com/ -----
+
 ! ----- START https://nepalkhabar.com -----
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
 nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
