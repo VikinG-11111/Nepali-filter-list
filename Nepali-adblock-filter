@@ -77,6 +77,13 @@ www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(1) > .banner-click-act
 www.hamrokhelkud.com##div.small_space_wrapper:nth-of-type(3) > .banner-click-action > .ls-is-cached.lazyloaded
 ! ----- END https://www.hamrokhelkud.com -----
 
+! ----- START https://www.hamropatro.com/ -----
+www.hamropatro.com##.fadeIn
+www.hamropatro.com##.home-doctor-list-wrapper > .module
+www.hamropatro.com##div.module:nth-of-type(4)
+www.hamropatro.com##[src*="https://creative.hamropatro.com/img/hamro-patro-web-square.gif"]
+! ----- END https://www.hamropatro.com/ -----
+
 ! ----- START https://www.himalkhabar.com -----
 www.himalkhabar.com###header > .section.mt-3.mb-3
 www.himalkhabar.com##.breaking-box.break-normal.col-md-12 > .section.mt-3.mb-3 > .container
