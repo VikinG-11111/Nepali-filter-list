@@ -148,6 +148,10 @@ www.gadgetbytenepal.com##.td-a-rec.td-a-rec-id-post_style_12.td-rec-hide-on-tl.t
 www.gadgetbytenepal.com##[href*="https://ankernepal.com/"] > .disable-lazyload
 ! ----- END https://www.gadgetbytenepal.com -----
 
+! ----- START https://globenepal.com -----
+globenepal.com##.widget
+! ----- END https://globenepal.com -----
+
 ! -----START https://goalnepal.com -----
 goalnepal.com##.right-box.col-xs-14.col-sm-10.col-md-11
 goalnepal.com###four-bigs
