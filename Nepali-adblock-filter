@@ -60,6 +60,13 @@ bizshala.com##.ad-banner-img
 bizshala.com##.author-box-style-1.mb--50
 ! ----- END https://bizshala.com -----
 
+! ----- START https://brtnepal.com -----
+brtnepal.com##.top_ads
+www.brtnepal.com##[src*="https://www.brtnepal.com/wp-content/uploads/2017/12/Biyus-Pradhan-ADV-new1.gif"]
+www.brtnepal.com##[src*="https://www.brtnepal.com/wp-content/uploads/2021/07/makalu-travels-new-web-banner_blue1.jpg"]
+www.brtnepal.com##div.incon_sec:nth-of-type(3)
+! ----- END https://brtnepal.com -----
+
 ! ----- START https://dainiki.com/ -----
 dainiki.com##.image.wp-image-334845.attachment-full.size-full
 dainiki.com##.image.wp-image-269470.attachment-full.size-full
