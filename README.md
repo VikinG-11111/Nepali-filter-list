@@ -67,8 +67,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+🙏 Motivation
+This project was inspired by and motivated by the excellent work done in 
+[swaccha-adblock-filter](https://github.com/sndsabin/swaccha-adblock-filter).
+
 Made with ❤️ for a cleaner Nepali web.
-
-
-
-
