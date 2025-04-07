@@ -137,6 +137,11 @@ ekantipur.com##div.ekans-wrapper:nth-of-type(3) > .ekans-row
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/900-x-100-ekantipurcom-1822025064251.gif"]
 ! ----- END https://ekantipur.com -----
 
+! ----- START https://www.enepalese.com -----
+www.enepalese.com##.ifrmcon
+www.enepalese.com##.ifrmbx
+! ----- END https://www.enepalese.com -----
+
 ! ----- START https://www.gadgetbytenepal.com -----
 www.gadgetbytenepal.com##.td-header-rec-wrap
 www.gadgetbytenepal.com##.td-a-rec.td-a-rec-id-post_style_12.td-rec-hide-on-tl.td-rec-hide-on-tp.tdi_2.td_block_template_3 > .td-visible-desktop > [href*="https://www.mi.com/np/"] > .disable-lazyload
