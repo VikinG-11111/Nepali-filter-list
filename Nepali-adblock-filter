@@ -588,26 +588,8 @@ nepaltraveller.com##[href*="https://classicdiamond.com.np"] > .featuredSideTrack
 ! ----- END https://nepalitraveller.com -----
 
 ! ----- START https://nepalkhabar.com -----
-nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > li:nth-of-type(2) > .bannergroup.uk-text-center > .uk-text-center > .banneritem
-nepalkhabar.com##.banner-news.uk-margin.uk-list.uk-list-large.uk-margin-remove > .uk-section.uk-section-xsmall.uk-padding-remove > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
-nepalkhabar.com##.nk-homepage > div.uk-section.uk-section-xsmall.uk-padding-remove:nth-of-type(4) > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
-nepalkhabar.com##div.uk-section-small.uk-section:nth-of-type(5) > .uk-container > div.uk-grid-medium.uk-grid-margin-medium.uk-grid:nth-of-type(1) > .uk-width-medium\@m > .uk-child-width-1-1.uk-child-width-1-1\@m.uk-grid-medium.uk-grid.uk-grid-stack > .bannergroup.uk-panel.uk-first-column
-nepalkhabar.com##.uk-section-small.uk-section.uk-section-xsmall.uk-padding-remove-vertical > .uk-container > .uk-grid-margin.uk-grid.uk-grid-stack > .uk-width-1-1\@m.uk-text-center.uk-first-column
-nepalkhabar.com##div.uk-section.uk-section-xsmall.uk-padding-remove-top:nth-of-type(8)
-nepalkhabar.com##[href*="https://himalayanbank.com/en/loan-products/small-and-medium-enterprises-loan"] > .uk-visible\@s
-nepalkhabar.com##div.uk-section.uk-section-xsmall.uk-padding-remove-top:nth-of-type(12)
-nepalkhabar.com##div.uk-section-small.uk-section.uk-padding-remove-top:nth-of-type(14) > .uk-container > div.uk-grid-medium.uk-grid:nth-of-type(1) > .uk-width-medium\@m > .uk-child-width-1-1.uk-child-width-1-1\@m.uk-grid-medium.uk-grid.uk-grid-stack > .bannergroup.uk-panel.uk-first-column
-nepalkhabar.com##div.uk-section.uk-section-xsmall.uk-padding-remove-top:nth-of-type(15)
-nepalkhabar.com##[src*="https://nepalkhabar.prixacdn.net/media/hamro-patro_1.gif"]
-nepalkhabar.com##[src*="https://nepalkhabar.prixacdn.net/media/advertisements/Upgrade_to_Subisu_300x200_1_zMSaWFWbSG_1_o1k1eaS8iP.gif"]
-nepalkhabar.com##.banneritem.selecting__second-child
-nepalkhabar.com##.uk-grid-stack.uk-grid-medium.uk-grid
-nepalkhabar.com##[href*="https://facebook.com/share/1A2qgtLTHR/"] > .uk-visible\@s
-nepalkhabar.com##[href*="https://nabilbank.com/individual"] > .uk-visible\@s
-nepalkhabar.com##.flex-paraAd.paraAd
-nepalkhabar.com##[href*="https://prabhubank.com/"] > .uk-visible\@s
-nepalkhabar.com##[href*="https://nmb.com.np/np/individual"] > .uk-visible\@s
-nepalkhabar.com##.bannergroup.uk-visible\@s.no-lazy.uk-margin-medium.uk-panel
+||nepalkhabar.prixacdn.net/media/advertisements/*
+||nepalkhabar.prixacdn.net/media/hamro-patro_1_1.gif
 ! ----- END https://nepalkhabar.com -----
 
 ! ----- START https://nepallive.com -----
