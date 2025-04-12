@@ -4,7 +4,8 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/VikinG-11111/Nepali-filter-list
 ! License: https://github.com/VikinG-11111/Nepali-filter-list/blob/main/LICENSE
-!
+! UpdateURL: https://raw.githubusercontent.com/VikinG-11111/Nepali-filter-list/main/Nepali-adblock-filter.txt
+
 ! Please feel free to open an issue or contribute.
 ! Repo: https://github.com/VikinG-11111/Nepali-filter-list
 
@@ -36,8 +37,7 @@ arghakhanchi.com##[src*="https://adalytics.prixacdn.net/media/albums/unnamed_xDI
 ! ----- START https://arthasansar.com -----
 arthasansar.com###roadBlock
 arthasansar.com##.modal-backdrop.fade.show
-arthasansar.com##body:style(overflow: auto !important;)
-arthasansar.com##html:style(overflow: auto !important;)
+arthasansar.com##body,html:style(overflow: auto !important;)
 ||arthasansar.com/uploads/media/*gif*
 arthasansar.com##.ad
 arthasansar.com##.content-advertisement
@@ -128,8 +128,7 @@ butwaltoday.com##.advertisement
 butwaltoday.com##.single-side-ad
 butwaltoday.com###myModal
 butwaltoday.com##.modal-backdrop.fade.show
-butwaltoday.com##body:style(overflow: auto !important;)
-butwaltoday.com##html:style(overflow: auto !important;)
+butwaltoday.com##body,html:style(overflow: auto !important;)
 ! ----- END https://butwaltoday.com -----
 
 ! ----- START https://citypokhara.com -----
@@ -229,8 +228,7 @@ ejanakpurtoday.com##.top__header__ads,.in__between_ads, .posts__banner__ads, .si
 ||ejanakpurtoday.com##.protech_ads_roadblock-ad
 ||ejanakpurtoday.com##.content-wrapper
 ||ejanakpurtoday.com##.protech_ads_skip-ad
-ejanakpurtoday.com##body:style(overflow: auto !important;)
-ejanakpurtoday.com##html:style(overflow: auto !important;)
+ejanakpurtoday.com##body,html:style(overflow: auto !important;)
 ! ----- END https://ejanakpurtoday.com -----
 
 ! ----- START https://ekantipur.com -----
@@ -462,8 +460,7 @@ kathmandupress.com##.row.bigyaapan-box.split-box.editor-bigyaapan
 kendrabindu.com##.wp-block-image
 kendrabindu.com##.comment.uk-card.uk-card-body
 kendrabindu.com###homepage
-kendrabindu.com##body:style(overflow: auto !important;)
-kendrabindu.com##html:style(overflow: auto !important;)
+kendrabindu.com##body,html:style(overflow: auto !important;)
 ! ----- END https://kendrabindu.com -----
 
 ! ----- START https://khabarhub.com/ -----
@@ -727,8 +724,7 @@ ourbiratnagar.net##.a-single
 ! ----- END https://ourbiratnagar.com -----
 
 ! ----- START https://onlinebirgunj.com -----
-onlinebirgunj.com##body:style(overflow: auto !important;)
-onlinebirgunj.com##html:style(overflow: auto !important;)
+onlinebirgunj.com##body,html:style(overflow: auto !important;)
 onlinebirgunj.com##.jeg_ad
 onlinebirgunj.com###pum-3866
 ! ----- END https://onlinebirgunj.com -----
@@ -781,8 +777,7 @@ rajdhani.com.np##.alignnone.wp-image-7340
 ! ----- START https://rajdhanidaily.com/ -----
 ||rajdhanidaily.com/wp-content/uploads/*.gif$image
 rajdhanidaily.com###pum-78632
-rajdhanidaily.com##body:style(overflow: auto !important;)
-rajdhanidaily.com##html:style(overflow: auto !important;)
+rajdhanidaily.com##body,html:style(overflow: auto !important;)
 ! ----- END https://rajdhanidaily.com/ -----
 
 ! ----- START https://ratopati.com/ -----
