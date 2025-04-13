@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Nepali-filter-list
-! Version: 2025.04.13.00.05
+! Version: 1.1.1
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/VikinG-11111/Nepali-filter-list
 ! License: https://github.com/VikinG-11111/Nepali-filter-list/blob/main/LICENSE
@@ -652,6 +652,8 @@ newsofnepal.com##.widget
 ! ----- END https://newsofnepal.com/ -----
 
 ! ----- START https://onlinekhabar.com -----
+||onlinekhabar.com/wp-content/uploads/*gif$image
+
 ! English one 
 english.onlinekhabar.com###okam-ad-718
 english.onlinekhabar.com##.ok-sidebar-subscribe
