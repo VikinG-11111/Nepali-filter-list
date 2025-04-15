@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Nepali-filter-list
-! Version: 1.1.1
+! Version: 1.2
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/VikinG-11111/Nepali-filter-list
 ! License: https://github.com/VikinG-11111/Nepali-filter-list/blob/main/LICENSE
@@ -65,15 +65,10 @@ ausnepalnews.com##.full-advertisement, .sidebar-adv, .inside_banner, .widget_sp_
 ! ----- END https://ausnepalnews.com -----
 
 ! ----- START https://baahrakhari.com -----
-baahrakhari.com##section.section.normal-section.bigyaapan-section:nth-of-type(1)
-baahrakhari.com##.items.col-4.thumb-news.side-bigyaapan.taja-three
-baahrakhari.com##section.section.normal-section.bigyaapan-section:nth-of-type(8)
-baahrakhari.com##section.section.normal-section.bigyaapan-section:nth-of-type(17)
-baahrakhari.com##a[href*="https://bit.ly/3QiqRb9"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
-baahrakhari.com##a[href*="https://nepallife.com.np/en/home"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
-baahrakhari.com##div.items.bigyaapan-item:nth-of-type(2) > a[href*="https://ncell.com.np/en/individual/border-roaming-pack"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
-baahrakhari.com##.left-side.col-sm-8.col-md-8.mt-0.offset-md-1 > section.section.normal-section.bigyaapan-section:nth-of-type(2) > .container > .row.bigyaapan-box.split-box.cat-bigyaapan.full-bigyaapan-box > .bigyaapan-item.col-sm-12.col-md-12
-baahrakhari.com##a[href*="https://remit.hamropatro.com/"]:nth-of-type(1) > .desktop-bigyaapan.w-100.d-block.lazyloaded
+baahrakhari.com##.bigyaapan-item
+baahrakhari.com##.imagebox
+baahrakhari.com##.modal_content
+baahrakhari.com##.modalbox
 ! ----- END https://baahrakhari.com -----
 
 ! ----- START https://bankingkhabar.com -----
@@ -148,62 +143,18 @@ www.collegesnepal.com###popup
 ! ----- END https://collegesnepal.com -----
 
 ! ----- START https://dainiki.com/ -----
-dainiki.com##.image.wp-image-334845.attachment-full.size-full
-dainiki.com##.image.wp-image-269470.attachment-full.size-full
-dainiki.com##.image.wp-image-332176.attachment-full.size-full
-dainiki.com##.image.wp-image-347932.attachment-full.size-full
-dainiki.com##div.uk-margin-small-top.uk-grid.uk-grid-stack:nth-of-type(17) > .uk-width-1-1\@m.adsimage.uk-first-column > .uk-margin-remove.uk-text-center > section.widget:nth-of-type(1)
-dainiki.com##div.uk-margin-small-top.uk-grid.uk-grid-stack:nth-of-type(17) > .uk-width-1-1\@m.adsimage.uk-first-column > .uk-margin-remove.uk-text-center > section.widget:nth-of-type(2)
-dainiki.com##div.uk-grid.uk-grid-stack:nth-of-type(19) > .uk-width-1-1\@m.adsimage.uk-first-column
-dainiki.com##div.uk-container.uk-margin-top:nth-of-type(7) > div.uk-margin-small-top.uk-grid:nth-of-type(3) > .uk-width-1-5\@m > section.widget:nth-of-type(1)
-dainiki.com##div.uk-container.uk-margin-top:nth-of-type(7) > div.uk-margin-small-top.uk-grid:nth-of-type(3) > .uk-width-1-5\@m
-dainiki.com##div.uk-container.uk-margin-top:nth-of-type(4) > div.uk-grid.uk-grid-stack:nth-of-type(2) > div.uk-width-1-1\@m.uk-first-column:nth-of-type(1) > .uk-width-1-1\@m.adsimage > .uk-margin-bottom > .widget
-dainiki.com##.post-entry.uk-card.uk-card-default.uk-card-body > .uk-margin-small-top > section.widget:nth-of-type(1)
-dainiki.com##.post-entry.uk-card.uk-card-default.uk-card-body > .uk-margin-small-top > section.widget:nth-of-type(2)
-dainiki.com##div.uk-width-1-1\@m.uk-first-column:nth-of-type(1) > .widget
-dainiki.com##section.widget:nth-of-type(3)
-dainiki.com##.uk-container.uk-margin-top > div:nth-of-type(1) > div.uk-grid:nth-of-type(1) > .uk-width-1-3\@m > section.widget:nth-of-type(1)
-dainiki.com##.uk-container.uk-margin-top > div:nth-of-type(1) > div.uk-grid:nth-of-type(1) > .uk-width-1-3\@m > section.widget:nth-of-type(2)
+dainiki.com##.widget
 ! ----- END https://dainiki.com/ -----
 
 ! ----- START https://dcnepal.com -----
-dcnepal.com##.gam-ad-position-wrap.home-header-logo-right
-dcnepal.com##div.ad-container:nth-of-type(1)
-dcnepal.com###primary > div.ad-container:nth-of-type(2)
-dcnepal.com##div.ad-container:nth-of-type(9)
-dcnepal.com###page > div.ad-container:nth-of-type(2)
-dcnepal.com##.gam-ad-position-wrap.single-after-featured-photo
-dcnepal.com##.gam-ad-position-wrap.single-after-news
+dcnepal.com##.gam-each-ad
+dcnepal.com##.ad-container
 ! ----- END https://dcnepal.com -----
 
 ! ----- START https://deshsanchar.com/ -----
-deshsanchar.com##.top-special-news > div.widget:nth-of-type(1) > .ds-desktop-ad
-deshsanchar.com##.alignnone.size-full.wp-image-993475
-deshsanchar.com##.section__special-news > div.widget:nth-of-type(1) > .ds-desktop-ad
-deshsanchar.com##.section__special-news > div.widget:nth-of-type(3) > .ds-desktop-ad > [href*="https://ntc.net.np/tariff/ftth-tariff"] > .alignnone.size-full.wp-image-1030193
-deshsanchar.com##.alignnone.size-full.wp-image-1023553
-deshsanchar.com##div.widget:nth-of-type(7) > .ds-desktop-ad
-deshsanchar.com##.alignnone.size-full.wp-image-1024893
-deshsanchar.com##div.widget:nth-of-type(11) > .ds-desktop-ad
-deshsanchar.com##div.widget:nth-of-type(13) > .ds-desktop-ad > [href*="https://facebook.com/GACMotorNepal/"] > .alignnone.size-full.wp-image-1022133
-deshsanchar.com##.alignnone.size-full.wp-image-842884
-deshsanchar.com##div.widget:nth-of-type(16) > .ds-desktop-ad
-deshsanchar.com##div.widget:nth-of-type(18) > .ds-desktop-ad > [href*="https://shikharinsurance.com/"] > .alignnone.size-full.wp-image-913695
-deshsanchar.com##.alignnone.size-full.wp-image-1017511
-deshsanchar.com##.col-md-9.divider-vertical--right > div.row:nth-of-type(1) > div.col-12:nth-of-type(1) > .widget > .ds-desktop-ad > [href*="https://facebook.com/Savitriincense/"] > .alignnone.size-full.wp-image-978283
-deshsanchar.com##.alignnone.size-full.wp-image-854684
-deshsanchar.com##.alignnone.size-full.wp-image-1022225
-deshsanchar.com##.alignnone.size-full.wp-image-995604
-deshsanchar.com##.alignnone.size-full.wp-image-1011136
-deshsanchar.com##.alignnone.size-full.wp-image-896717
-deshsanchar.com##div.story-container.sidebar-story.sidebar-story--special:nth-of-type(37)
-deshsanchar.com##.alignnone.size-full.wp-image-1027981
-deshsanchar.com##div.divider:nth-of-type(34)
-deshsanchar.com##div.divider:nth-of-type(38)
-deshsanchar.com##div.divider:nth-of-type(36)
-deshsanchar.com##div.divider:nth-of-type(32)
-deshsanchar.com##div.divider:nth-of-type(40)
-deshsanchar.com##.alignnone.size-full.wp-image-1027982
+deshsanchar.com###pum-1034494
+deshsanchar.com##body,html:style(overflow: auto !important;)
+deshsanchar.com##.ds-desktop-ad,.sidebar-widget
 ! ----- END https://deshsanchar.com/ -----
 
 ! ----- START https://eadarsha.com -----
@@ -904,16 +855,8 @@ techlekh.com###ldgn-sticky-bar
 ! ----- END https://techmandu.com -----
 
 ! ----- START https://thahakhabar.com -----
-thahakhabar.com##section.section:nth-of-type(3)
-thahakhabar.com##section.section:nth-of-type(6)
-thahakhabar.com##section.section:nth-of-type(7) > .container > div.row:nth-of-type(1) > .col-lg-3 > .row > div.col-md-12:nth-of-type(1) > div.col-md-12:nth-of-type(1) > .col-md-12
-thahakhabar.com##section.section:nth-of-type(9)
-thahakhabar.com##.col-xl-9.col-lg-9.col-md-8 > .section > .container
-thahakhabar.com##.col-lg-9 > div.mt-30.mb-30:nth-of-type(1) > .bigyapan-gif-gallery.border-box > [href*="https://vianet.com.np/sambapack/"] > .lazy-loaded
-thahakhabar.com##[src*="https://thahacdn.prixacdn.net/media/250.250_DH.gif"]
-thahakhabar.com##[href*="https://mahalaxmibank.com/"] > .lazy-loaded
-thahakhabar.com##.bigyapan-gif-gallery  
-thahakhabar.com##section.section:nth-of-type(10) > .container > div.row:nth-of-type(1) > .col-lg-3 > .row
+thahakhabar.com##.bigyapan-gif-gallery
+thahakhabar.com##.inline_disp
 ! ----- END https://thahakhabar.com -----
 
 ! ----- START https://thulo.com.np -----
