@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Nepali-filter-list
-! Version: 1.2
+! Version: 2.1
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/VikinG-11111/Nepali-filter-list
 ! License: https://github.com/VikinG-11111/Nepali-filter-list/blob/main/LICENSE
@@ -8,6 +8,10 @@
 
 ! Please feel free to open an issue or contribute.
 ! Repo: https://github.com/VikinG-11111/Nepali-filter-list
+
+! ----- START https://abcnepal.tv/ -----
+abcnepal.tv##.widget
+! ----- END https://abcnepal.tv -----
 
 ! ----- START https://abhiyandaily.com -----
 abhiyandaily.com###bigyaapan
@@ -64,6 +68,14 @@ asiannewsnetworks.com##.wp-block-image
 ausnepalnews.com##.full-advertisement, .sidebar-adv, .inside_banner, .widget_sp_image
 ! ----- END https://ausnepalnews.com -----
 
+! ----- START https://avenues.tv/ -----
+avenues.tv##.bigyapan-banner
+! ----- END https://avenues.tv/ -----
+
+! ----- START https://b360nepal.com/ -----
+b360nepal.com##.side-items.sticky-item
+! ----- END https://b360nepal.com/ -----
+
 ! ----- START https://baahrakhari.com -----
 baahrakhari.com##.bigyaapan-item
 baahrakhari.com##.imagebox
@@ -71,12 +83,30 @@ baahrakhari.com##.modal_content
 baahrakhari.com##.modalbox
 ! ----- END https://baahrakhari.com -----
 
+! ----- START https://baglungpost.com/ -----
+baglungpost.com##.ads
+! ----- END https://baglungpost.com/ -----
+
 ! ----- START https://bankingkhabar.com -----
 ||bankingkhabar.com/wp-content/uploads/*.gif$image
 bankingkhabar.com##div.container:nth-of-type(5) > .row > .col-md-12.text-center
 bankingkhabar.com##[href*="https://srdb.com.np/"] > .ls-is-cached.lazyloaded
 bankingkhabar.com##.img-fluid.ls-is-cached.lazyloaded
 ! ----- END https://bankingkhabar.com -----
+
+! ----- START https://bhaktapurpost.com/ -----
+bhaktapurpost.com##.addb
+bhaktapurpost.com##.add-2
+! ----- END https://bhaktapurpost.com/ -----
+
+! ----- START https://bhanjyangnews.com/ -----
+bhanjyangnews.com##.tie-popup-adblock
+bhanjyangnews.com##.widget_media_image
+bhanjyangnews.com###tie-block_2274
+bhanjyangnews.com###tie-block_1022
+bhanjyangnews.com###tie-block_212
+bhanjyangnews.com##.stream-item-below-post-content
+! ----- END https://bhanjyangnews.com/ -----
 
 ! ----- START https://bishalnews.com -----
 bishalnews.com##.widget
@@ -112,6 +142,14 @@ butwaldainik.com##.advertisement
 ||butwaldainik.com/wp-content/uploads/*gif*
 ! ----- END https://butwaldainik.com -----
 
+! ----- START https://butwaldiary.com/ -----
+butwaldiary.com##.adbox
+butwaldiary.com##.full-bigyaapan
+butwaldiary.com##.bigyapan-item
+butwaldiary.com##.bigyapan-box
+butwaldiary.com##.insert-ad
+! ----- END https://butwaldiary.com/ -----
+
 ! ----- START https://butwalonline.com -----
 butwalonline.com##.adds_rajn
 butwalonline.com##.adds
@@ -125,6 +163,11 @@ butwaltoday.com###myModal
 butwaltoday.com##.modal-backdrop.fade.show
 butwaltoday.com##body,html:style(overflow: auto !important;)
 ! ----- END https://butwaltoday.com -----
+
+! ----- START https://chitwanpost.com/ -----
+chitwanpost.com.np##.rhinox-popup.active
+chitwanpost.com.np##.tdi_74
+! ----- END https://chitwanpost.com/ -----
 
 ! ----- START https://citypokhara.com -----
 citypokhara.com###sg-popup-content-wrapper-11059
@@ -146,6 +189,16 @@ www.collegesnepal.com###popup
 dainiki.com##.widget
 ! ----- END https://dainiki.com/ -----
 
+! ----- START https://dainiknepalgunj.com/ -----
+dainiknepalgunj.com##canvas
+! ----- END https://dainiknepalgunj.com/ -----
+
+! ----- START https://damaulinews.com/ -----
+damaulinews.com##.widget_media_image
+damaulinews.com##.wp-block-image
+damaulinews.com###ewic-con-20690
+! ----- END https://damaulinews.com/ -----
+
 ! ----- START https://dcnepal.com -----
 dcnepal.com##.gam-each-ad
 dcnepal.com##.ad-container
@@ -157,11 +210,63 @@ deshsanchar.com##body,html:style(overflow: auto !important;)
 deshsanchar.com##.ds-desktop-ad,.sidebar-widget
 ! ----- END https://deshsanchar.com/ -----
 
+! ----- START https://deukhuritoday.com/ -----
+deukhuritoday.com##.widget_media_image
+! ----- END https://deukhuritoday.com/ -----
+
+! ----- START https://devchulikhabar.com/ -----
+devchulikhabar.com##.widget_media_image
+! ----- END https://devchulikhabar.com/ -----
+
+! ----- START https://dhadingpost.com/ -----
+dhadingpost.com##.str3.str_wrap
+dhadingpost.com##.wp-image-82382
+dhadingpost.com##.wp-image-82381
+dhadingpost.com##.wp-image-82380
+dhadingpost.com##.wp-image-82357
+dhadingpost.com##.wp-image-82356
+dhadingpost.com##.wp-image-82314
+dhadingpost.com##.wp-image-82311
+dhadingpost.com##.wp-image-82379
+dhadingpost.com##.wp-image-82307
+dhadingpost.com##.wp-image-82305
+dhadingpost.com##.wp-image-82304
+dhadingpost.com##.wp-image-82300
+dhadingpost.com##.wp-image-82302
+dhadingpost.com##.wp-image-82297
+dhadingpost.com##.wp-image-82295
+dhadingpost.com##.wp-image-82293
+dhadingpost.com##.wp-image-82291
+dhadingpost.com##.wp-image-82288
+dhadingpost.com##.wp-image-82284
+dhadingpost.com##.wp-image-82283
+dhadingpost.com##.wp-image-82280
+dhadingpost.com##.wp-image-82279
+dhadingpost.com##.wp-image-82274
+dhadingpost.com##.wp-image-82269
+dhadingpost.com##.wp-image-82268
+dhadingpost.com##.wp-image-82264
+dhadingpost.com##.wp-image-82266
+dhadingpost.com##.wp-image-82414
+dhadingpost.com##.wp-image-82403
+dhadingpost.com##.wp-image-82421
+dhadingpost.com##.wp-image-82466
+dhadingpost.com##.wp-image-82461
+dhadingpost.com##.wp-image-82454
+dhadingpost.com##.wp-image-82449
+dhadingpost.com##.wp-image-82434
+dhadingpost.com##.wp-image-82433
+! ----- END https://dhadingpost.com/ -----
+
 ! ----- START https://eadarsha.com -----
 ||eadarsha.com/wp-content/uploads/*.gif$image
 eadarsha.com##.eadar-content_2
 ||i0.wp.com/eadarsha.com/wp-content/uploads/*.gif$image
 ! ----- END https://eadarsha.com -----
+
+! ----- START https://echitwankhabar.com/ -----
+||echitwankhabar.com/img/ads/*
+! ----- END https://echitwankhabar.com/ -----
 
 ! ----- START https://educatenepal.com -----
 www.educatenepal.com##.col-md-3.right-ad-part.mt-3.mt-md-0
@@ -173,6 +278,11 @@ edusanjal.com##.flex.flex-wrap.gap-4.md\:flex-nowrap.con.py-4
 edusanjal.com##.flex.flex-wrap.gap-4.md\:flex-nowrap.pad-down
 ||educatenepal.com/uploads/banner$image
 ! ----- END https://edusanjal.com -----
+
+! ----- START https://eghodaghodikhabar.com/ -----
+eghodaghodikhabar.com##.widget_block
+eghodaghodikhabar.com##.ads
+! ----- END https://eghodaghodikhabar.com/ -----
 
 ! ----- START https://ejanakpurtoday.com -----
 ejanakpurtoday.com##.top__header__ads,.in__between_ads, .posts__banner__ads, .sidebar__ads
@@ -194,10 +304,19 @@ ekantipur.com##div.ekans-wrapper:nth-of-type(3) > .ekans-row
 ekantipur.com##[src*="https://assets-cdn.ekantipur.com/uploads/source/ads/900-x-100-ekantipurcom-1822025064251.gif"]
 ! ----- END https://ekantipur.com -----
 
+! ----- START https://emountaintv.com/ -----
+emountaintv.com##.bigyapan-wrapper
+emountaintv.com##full-width-bigyapan-wrapper
+! ----- END https://emountaintv.com/ -----
+
 ! ----- START https://enepalese.com -----
 enepalese.com##.ifrmcon
 enepalese.com##.ifrmbx
 ! ----- END https://enepalese.com -----
+
+! ----- START https://everest-times.com/ -----
+everest-times.com##.add-section
+! ----- END https://everest-times.com/ -----
 
 ! ----- START https://financialnotices.com -----
 financialnotices.com##.ads
@@ -245,6 +364,10 @@ goalnepal.com##[src*="https://goalnepal.com/uploads/banners/1647501374.gif"]
 goalnepal.com##[src*="https://goalnepal.com/uploads/banners/1582350500.jpg"]
 ! ----- END https://goalnepal.com -----
 
+! ----- START https://godawarinews.com/ -----
+||godawarinews.com/uploads/bigyaapan/*
+! ----- END https://godawarinews.com/ -----
+
 ! ----- START https://gorkhapatraonline.com -----
 gorkhapatraonline.com##section.bigyapan-section.\31 :nth-of-type(12)
 gorkhapatraonline.com##section.bigyapan-section.\31 :nth-of-type(15)
@@ -258,6 +381,11 @@ gorkhapatraonline.com##section.bigyapan-section.\31 :nth-of-type(17)
 gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-type(1) > .col-lg-3.small-block > .bigyapan-section.pt-0.pb-5 > .row > .col-lg-12
 gorkhapatraonline.com###categories\.placement-six > .container > div.row:nth-of-type(1) > .col-lg-3.small-block
 ! ----- END https://gorkhapatraonline.com -----
+
+! ----- START https://gulminews.com/ -----
+gulminews.com##body:style(pointer-events: auto !important;)
+gulminews.com##.attachment-medium_large.size-medium_large.wp-image-7570
+! ----- END https://gulminews.com/ -----
 
 ! ----- START https://hamrakura.com -----
 ||hamrakura.com/uploads/advertisement/*
@@ -375,12 +503,32 @@ himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(1)
 himalkhabar.com##div.section.mt-3.mb-3:nth-of-type(2)
 ! ----- END https://himalkhabar.com -----
 
+! ----- START https://ilamkhabar.com/ -----
+ilamkhabar.com##.sidebar__ads
+ilamkhabar.com##.posts__banner__ads
+ilamkhabar.com##.in__between_ads
+! ----- END https://ilamkhabar.com/ -----
+
 ! ----- START https://itaharionline.com -----
 itaharionline.com###Image3_img, #Image5_img, #Image7_img
 itaharionline.com###HTML1
 itaharionline.com###Image5
 itaharionline.com###Image7
 ! ----- END https://itaharionline.com -----
+
+! ----- START https://janadharana.com/ -----
+janadharana.com##.textwidget
+! ----- END https://janadharana.com/ -----
+
+! ----- START https://jhapaonline.com/ -----
+jhapaonline.com##.a-wrap.a-wrap-base.a-wrap-2
+jhapaonline.com##.inner.theiaStickySidebar
+jhapaonline.com##[src*="http://jhapaonline.com/wp-content/uploads/2025/04/4-ad.jpg"]
+jhapaonline.com##[src*="http://jhapaonline.com/wp-content/uploads/2025/04/3-ads.jpg"]
+jhapaonline.com##[src*="http://jhapaonline.com/wp-content/uploads/2025/04/3-in-1.jpg"]
+jhapaonline.com##[src*="http://jhapaonline.com/wp-content/uploads/2024/03/ad-1-copy-1.gif"]
+jhapaonline.com##.a-wrap.a-wrap-base.a-wrap-5
+! ----- END https://jhapaonline.com/ -----
 
 ! ----- START https://jobsnepal.com -----
 jobsnepal.com##.jn-w-full.lozad
@@ -389,6 +537,10 @@ jobsnepal.com##.jn-w-full.lozad
 ! ----- START https://joynepal.com -----
 joynepal.com##.widget
 ! ----- END https://joynepal.com -----
+
+! ----- START https://kantipurtv.com/ -----
+kantipurtv.com##.d-none.d-lg-block.pt-0
+! ----- END https://kantipurtv.com/ -----
 
 ! ----- START https://karobardaily.com -----
 karobardaily.com##.widget
@@ -450,6 +602,13 @@ khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .
 khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .row.bigyapan-box
 ! ----- END https://khelpati.com -----
 
+! ----- START https://kohalpurtoday.com/ -----
+kohalpurtoday##.modal
+kohalpurtoday.com###myModal
+kohalpurtoday.com##.modal-backdrop.fade.show
+kohalpurtoday.com##.body,html:style(overflow: auto !important;)
+! ----- END https://kohalpurtoday.com/ -----
+
 ! ----- START https://ktmdainik.com/ -----
 ||ktmdainik.com/wp-content/uploads/2025/03/1100x100x-1*.png$image
 ! ----- END https://ktmdainik.com/ -----
@@ -457,6 +616,10 @@ khelpati.com##.row.content-section > .section.full-bigyapan > .container.p-0 > .
 ! ----- START https://lokaantar.com -----
 lokaantar.com##section:nth-of-type(10)
 ! ----- END https://lokaantar.com -----
+
+! ----- START https://madhyabindu.com/ -----
+madhyabindu.com##.wp-block-image
+! ----- END https://madhyabindu.com/ -----
 
 ! ----- START https://merokhel.com/ -----
 merokhel.com###sidebar-header-right
@@ -484,6 +647,20 @@ missionkhoj.com##.modalbox
 missionkhoj.com###pum-3866
 ! ----- END https://missionkhoj.com -----
 
+! ----- START https://myagdikali.com/ -----
+||myagdikali.com/wp-content/uploads/*gif*
+myagdikali.com##.custom-html-widget
+! ----- END https://myagdikali.com/ -----
+
+! ----- START https://myagdinews.com/ -----
+myagdinews.com##.widget_media_image
+myagdinews.com##.wp-block-image
+! ----- END https://myagdinews.com/ -----
+
+! ----- START https://myagdionline.com/ -----
+myagdionline.com##.top-head-ad
+! ----- END https://myagdionline.com/ -----
+
 ! ----- START https://mypeoplesreview.com -----
 mypeoplesreview.com##.wp-block-image
 ! ----- END https://mypeoplesreview.com -----
@@ -504,6 +681,21 @@ nagariknews.nagariknetwork.com##.ads_detail_after_side_after
 nagariknews.nagariknetwork.com##.col-md-12.mb-2
 ! ----- END https://https://nagariknews.com/ -----
 
+! ----- START https://narayanionline.com/ -----
+narayanionline.com##.no-vigyapan-section
+narayanionline.com###exampleModal
+narayanionline.com##.modal-backdrop.fade.show
+narayanionline.com##.body,html:style(overflow: auto !important;)
+narayanionline.com##.inside-a
+narayanionline.com##.no-vigyapan-single
+narayanionline.com##.narayani-skipads
+||narayanionline.com/wp-content/themes/narayanionline/js/main.js$script
+! ----- END https://narayanionline.com/ -----
+
+! ----- START https://nawalpurnews.com/ -----
+nawalpurnews.com##.advertisement
+! ----- END https://nawalpurnews.com/ -----
+
 ! ----- START https://nayapage.com -----
 ||nayapage.com/uploads/bigyapan/*
 ! ----- END https://nayapage.com -----
@@ -511,6 +703,14 @@ nagariknews.nagariknetwork.com##.col-md-12.mb-2
 ! ----- START https://nebnews.net -----
 nebnews.net##.dgrmv-image
 ! ----- END https://nebnews.net -----
+
+! ----- START https://nepalgunjnews.com/ -----
+nepalgunjnews.com##.mfp-content
+nepalgunjnews.com##.mfp-container.mfp-s-ready.mfp-inline-holder
+nepalgunjnews.com##.mfp-wrap.mfp-auto-cursor.mfp-ready
+nepalgunjnews.com##.mfp-bg.mfp-ready, .widget, .td-all-devices
+nepalgunjnews.com##body,html:style(overflow: auto !important;)
+! ----- END https://nepalgunjnews.com/ -----
 
 ! ----- START https://nepalipaisa.com -----
 nepalipaisa.com###popadvert
@@ -560,6 +760,10 @@ nepallive.com##.section.content-editor > section.section.full-bigyapan.mt-1.mb-1
 nepallive.com##.bigyaapan-item
 ! ----- END https://nepallive.com -----
 
+! ----- START https://nepallivetoday.com/ -----
+nepallivetoday.com##.wp-block-image
+! ----- END https://nepallivetoday.com/ -----
+
 ! ----- START https://nepalpress.com -----
 nepalpress.com##.gam-npad-position-wrap.home-after-main-menu-desktop
 nepalpress.com##.gam-npad-position-wrap.home-after-1breaking
@@ -581,6 +785,10 @@ nepalpress.com##[src*="https://nepalpress.com/wp-content/uploads/2022/02/NEP-Soc
 ! ----- START https://nepalsamaya.com -----
 ||nepalsamaya.com/uploads/bigyaapan/*
 ! ----- END https://nepalsamaya.com -----
+
+! ----- START https://nepaltvonline.com/ -----
+nepaltvonline.com##.stream-item
+! ----- END https://nepaltvonline.com/ -----
 
 ! ----- START https://neplays.com -----
 neplays.com##div.header--mainbar:nth-of-type(2)
@@ -640,9 +848,20 @@ onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.single
 onlinekhabar.com##[src*="https://onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
 ! ----- END https://onlinekhabar.com -----
 
+
 ! ----- START https://onlinenepal.com -----
 onlinenepal.com##.widget
 ! ----- END https://onlinenepal.com -----
+
+! ----- START https://onlinerautahat.com/ -----
+||onlinerautahat.com/img/ads-img/*
+onlinerautahat.com##.full-bigyaapan-box
+onlinerautahat.com##.cat-bigyaapan
+onlinerautahat.com##.desktop-bigyaapan
+onlinerautahat.com##.bigyaapan-item
+onlinerautahat.com##.bigyaapan-box
+onlinerautahat.com##.mainpostdetail > p:nth-of-type(1) > .col-md-12 > .row
+! ----- END https://onlinerautahat.com/ -----
 
 ! ----- START https://onlinetvnepal.com -----
 onlinetvnepal.com##.wp-block-image
@@ -664,10 +883,23 @@ onlinebirgunj.com##.jeg_ad
 onlinebirgunj.com###pum-3866
 ! ----- END https://onlinebirgunj.com -----
 
+! ----- START https://pabilnews.com/ -----
+pabilnews.com##.banner-promotions-wrapper
+pabilnews.com##.widget-area
+! ----- END https://pabilnews.com/ -----
+
 ! ----- START https://pahilopost.com -----
 pahilopost.com##.biz-ad-block
 ||pahilopost.com/assets/upload/advertise/$image
 ! ----- END https://pahilopost.com -----
+
+! ----- START https://parbatnews.com/ -----
+parbatnews.com##.widget_media_image
+parbatnews.com##.herald-txt-module
+parbatnews.com##.sgpb-theme-1-overlay.sgpb-popup-overlay-18995.sgpb-popup-overlay
+parbatnews.com###sgpb-popup-dialog-main-div
+||parbatnews.com/wp-content/uploads/*gif*
+! ----- END https://parbatnews.com/ -----
 
 ! ----- START https://pokharanews.com -----
 ||adpokhara.com/data/dbimg/media/$image
@@ -715,6 +947,12 @@ rajdhanidaily.com###pum-78632
 rajdhanidaily.com##body,html:style(overflow: auto !important;)
 ! ----- END https://rajdhanidaily.com/ -----
 
+! ----- START https://ramechhaptimes.com/ -----
+ramechhaptimes.com.np###roadBlock
+ramechhaptimes.com.np##.modal-backdrop.fade.show
+ramechhaptimes.com.np##.body,html:style(overflow: auto !important;)
+! ----- END https://ramechhaptimes.com/ -----
+
 ! ----- START https://ratopati.com/ -----
 ratopati.com##[href*="https://cgdigital.com.np/"] > .animate__animated.animate__fast.fadeIn
 ratopati.com##[href*="https://facebook.com/peugeotmotocyclesnp"] > .animate__animated.animate__fast.fadeIn
@@ -760,6 +998,13 @@ reportersnepal.com##.wp-image-662710
 reportersnepal.com##.image.wp-image-992293.attachment-full.size-full
 reportersnepal.com##.image.wp-image-1041595.attachment-full.size-full
 ! ----- END https://reportersnepal.com/ -----
+
+! ----- START https://sagarmatha.tv/ -----
+sagarmatha.tv##.no-vigyapan-section
+sagarmatha.tv##.no-vigyapan-single
+sagarmatha.tv##.no-vigyapan-sidebar-section
+sagarmatha.tv##.no-vigyapan-mobile
+! ----- END https://sagarmatha.tv/ -----
 
 ! ----- START https://samadhannews.com -----
 samadhannews.com##.full-bann
@@ -833,11 +1078,42 @@ sharesansar.com##div.margin-bottom-20:nth-of-type(4) > .advsTrack > .img-respons
 ||shilapatracdn.de/uploads/bigyaapan$image
 ! ----- END https://shilapatra.com -----
 
+! ----- START https://shuklanews.com/ -----
+shuklanews.com##.widget_media_image
+shuklanews.com##.jnews_content_bottom_ads
+shuklanews.com##.size-full.wp-image-13191.aligncenter
+! ----- END https://shuklanews.com/ -----
+
+! ----- START https://shuklaphantakhabar.com/ -----
+shuklaphantakhabar.com##.gtmz-image
+! ----- END https://shuklaphantakhabar.com/ -----
+
 ! ----- START https://sidhakura.com -----
 ||sidhakura.com/uploads/bigyaapan/*.gif$image
 ||sidhakura.com/uploads/bigyaapan/*.jpg$image
 ||sidhakura.com/uploads/bigyaapan/*.png$image
 ! ----- END https://sidhakura.com -----
+
+! ----- START https://sindhulikhabar.com/ -----
+sindhulikhabar.com##.ad-container
+sindhulikhabar.com##.gam-each-ad
+! ----- END https://sindhulikhabar.com/ -----
+
+! ----- START https://sirahatimes.com/ -----
+!sirahatimes.com##.adRightSection
+||sirahatimes.com/uploads/ad/
+! ----- END https://sirahatimes.com/ -----
+
+! ----- START https://sisneonline.com/ -----
+sisneonline.com###pum-10926
+sisneonline.com##body,html:style(overflow: auto !important;)
+sisneonline.com##.ad
+sisneonline.com##.sisne-topads
+sisneonline.com##section:nth-of-type(6) > .container > .row > .col-lg-4.col-md-8.offset-md-2.offset-lg-0.order-lg-1.order-0 > a:nth-of-type(1) > .lazyloaded
+sisneonline.com##section:nth-of-type(6) > .container > .row > .col-lg-4.col-md-8.offset-md-2.offset-lg-0.order-lg-1.order-0 > a:nth-of-type(2) > .lazyloaded
+sisneonline.com##section.news.p-20:nth-of-type(7)
+sisneonline.com##section.news:nth-of-type(9)
+! ----- END https://sisneonline.com/ -----
 
 ! ----- START https://surakshyanews.com -----
 ||surakshyanews.com/uploads/bigyaapan/
@@ -862,6 +1138,18 @@ thahakhabar.com##.inline_disp
 ! ----- START https://thulo.com.np -----
 thulo.com.np##.sellers-thumbnailimage, .product-details
 ! ----- END https://thulo.com.np -----
+
+! ----- START https://tilottamacitynews.com/ -----
+tilottamacitynews.com###popup-modal
+tilottamacitynews.com##.modal-backdrop.fade.show
+||tilottamacitynews.com/upload/adds/*
+tilottamacitynews.com###openMdlOC
+! ----- END https://tilottamacitynews.com/ -----
+
+! ----- START https://tulsipurkhabar.com/ -----
+tulsipurkhabar.com##.advetisement
+tulsipurkhabar.com##.advertisement-long
+! ----- END https://tulsipurkhabar.com/ -----
 
 ! ----- START https://udghoshdaily.com -----
 ||udghoshdaily.com/images/advertisement/*
