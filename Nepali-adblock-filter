@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Nepali-filter-list
-! Version: 2.1
+! Version: 2.2
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/VikinG-11111/Nepali-filter-list
 ! License: https://github.com/VikinG-11111/Nepali-filter-list/blob/main/LICENSE
@@ -391,6 +391,14 @@ gulminews.com##.attachment-medium_large.size-medium_large.wp-image-7570
 ||hamrakura.com/uploads/advertisement/*
 ! ----- END https://hamrakura.com -----
 
+! ----- START https://hamrobazaar.com/ -----
+hamrobazaar.com##.topBanner
+||hamrobazaar.blr1.cdn.digitaloceanspaces.com/ads/
+||hamrobazaar.blr1.cdn.digitaloceanspaces.com/feature_ads/ 
+hamrobazaar.com##.inBetweenAds
+hamrobazaar.com##.mobInfeedGAds
+! ----- END https://hamrobazaar.com/ -----
+
 ! ----- START https://hamrobiratnagar.com -----
 hamrobiratnagar.com##.container-fluid
 hamrobiratnagar.com/content/upload/post_image/*gif*
@@ -416,14 +424,6 @@ hamrobiratnagar.com##[href*="https://hamrobiratnagar.com/ads/clickcount/55"] > .
 ! ----- START https://hamrocsit.com -----
 hamrocsit.com###site-header > div.row:nth-of-type(1)
 ! ----- END https://hamrocsit.com -----
-
-! ----- START https://hamrobazaar.com/ -----
-hamrobazaar.com##.topBanner
-||hamrobazaar.blr1.cdn.digitaloceanspaces.com/ads/
-||hamrobazaar.blr1.cdn.digitaloceanspaces.com/feature_ads/ 
-hamrobazaar.com##.inBetweenAds
-hamrobazaar.com##.mobInfeedGAds
-! ----- END https://hamrobazaar.com/ -----
 
 ! ----- START https://hamrokhelkud.com -----
 hamrokhelkud.com##.display.py-3
@@ -810,6 +810,12 @@ nepsealpha.com##.responsive
 newsofnepal.com##.widget
 ! ----- END https://newsofnepal.com/ -----
 
+! ----- START https://onlinebirgunj.com -----
+onlinebirgunj.com##body,html:style(overflow: auto !important;)
+onlinebirgunj.com##.jeg_ad
+onlinebirgunj.com###pum-3866
+! ----- END https://onlinebirgunj.com -----
+
 ! ----- START https://onlinekhabar.com -----
 ||onlinekhabar.com/wp-content/uploads/*gif$image
 
@@ -848,7 +854,6 @@ onlinekhabar.com##.ok18-single-post-content-wrap > .okam-ad-position-wrap.single
 onlinekhabar.com##[src*="https://onlinekhabar.com/wp-content/uploads/2025/03/New-design.gif"]
 ! ----- END https://onlinekhabar.com -----
 
-
 ! ----- START https://onlinenepal.com -----
 onlinenepal.com##.widget
 ! ----- END https://onlinenepal.com -----
@@ -876,12 +881,6 @@ osnepal.com##.alignnone.size-medium.wp-image-243316
 ! ----- START https://ourbiratnagar.com -----
 ourbiratnagar.net##.a-single
 ! ----- END https://ourbiratnagar.com -----
-
-! ----- START https://onlinebirgunj.com -----
-onlinebirgunj.com##body,html:style(overflow: auto !important;)
-onlinebirgunj.com##.jeg_ad
-onlinebirgunj.com###pum-3866
-! ----- END https://onlinebirgunj.com -----
 
 ! ----- START https://pabilnews.com/ -----
 pabilnews.com##.banner-promotions-wrapper
