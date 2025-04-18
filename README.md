@@ -58,6 +58,7 @@ We aim to update the filter list weekly or as needed based on user feedback.
 ## ⚠️ Disclaimer
 
 Nepali-filter-list is provided "as is" without warranty of any kind. Use at your own risk. Some websites may break due to adblock interference.
+While the filter rules are functional, they might not be the most optimized. The rules are continually being improved based on user feedback and contributions.
 
 ---
 
