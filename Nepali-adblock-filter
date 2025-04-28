@@ -953,29 +953,8 @@ ramechhaptimes.com.np##.body,html:style(overflow: auto !important;)
 ! ----- END https://ramechhaptimes.com/ -----
 
 ! ----- START https://ratopati.com/ -----
-ratopati.com##[href*="https://cgdigital.com.np/"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://facebook.com/peugeotmotocyclesnp"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://bit.ly/3VkF88r"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##.section.section-samachar-news > .dn-container > .flex.flex-wrap > .dn__side--add > .sticky.sidebar-adv.dnn-ad-placeholder > .desktop-mode
-ratopati.com##div.full-banner-adv:nth-of-type(16)
-ratopati.com##.section.section-hour-news > .dn-container > .flex.flex-wrap > .dn__side--add > .sticky.sidebar-adv.dnn-ad-placeholder > .desktop-mode
-ratopati.com##div.full-banner-adv:nth-of-type(18)
+ratopati.com##.adv-item
 ratopati.com##.skip__banner-ad
-ratopati.com##div.full-banner-adv:nth-of-type(15)
-ratopati.com##[href*="https://nmb.com.np/security-tips"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://facebook.com/lsautonepal"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##.sidebar-adv.dnn-ad-placeholder > .desktop-mode
-ratopati.com##[href*="https://premier.edu.np/pre-registration/"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##.content-banner--single
-ratopati.com##.classified_header.flex.flex-middle.flex-wrap.flex-between
-ratopati.com##.classified-container
-ratopati.com##[href*="https://youtube.com/watch"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://shivamcement.com.np/shivamsandesh"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://nabilbank.com/individual"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##[href*="https://connectips.com/"] > .animate__animated.animate__fast.fadeIn
-ratopati.com##div.contentarea-adv.full-banner-adv:nth-of-type(7) > .dn-container.dnn-ad-placeholder > .desktop-mode
-ratopati.com##div.contentarea-adv.full-banner-adv:nth-of-type(9) > .dn-container.dnn-ad-placeholder > .desktop-mode
-ratopati.com##[href*="https://classic.com.np/"] > .animate__animated.animate__fast.fadeIn
 ! ----- END https://ratopati.com/ -----
 
 ! ----- START https://reportersnepal.com/ -----
